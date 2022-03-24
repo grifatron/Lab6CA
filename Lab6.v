@@ -1,4 +1,4 @@
-module Lab6(Address, InstOut, clk);
+module Lab6ROM(Address, InstOut, clk);
 	input[7:0]Address;
 	input clk;
 	
